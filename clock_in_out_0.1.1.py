@@ -1,6 +1,7 @@
 # python 3.7
 # Clock in and out and save times to excel sheet
 # 0.1.0 changed file saves to f strings
+# 0.1.1 changed the date list for excel files, works better now.
 
 import datetime
 from datetime import date, timedelta
